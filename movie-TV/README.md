@@ -1,4 +1,4 @@
-# movieproject
+# movie-tv
 
 ## Project setup
 ```
